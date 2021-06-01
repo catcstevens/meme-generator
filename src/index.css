@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+header > img {
+    height: 80%;
+    padding: 15px;
+}
+
+header {
+    height: 100px;
+    
+}
